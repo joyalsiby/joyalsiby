@@ -1,74 +1,79 @@
-# 👋 Hey world, I'm Joyal Siby — your friendly neighbourhood creative chaos wizard!
+# 👋 Hey there, I'm Joyal Siby!
 
-> *Designing Generalist · Tech Tinkerer · Discord Vibes Moderator · Content Machine*  
-> If it's creative, quirky, and slightly nerdy — I'm probably already doing it.
-
----
-
-## 🚀 Who Dis?
-
-- 🧠 **Profession**: UI/UX Gladiator, Brand Whisperer, Discord Sorcerer, Content Hustler  
-- 🎬 **Backstory**: Born with a mouse in hand and a timeline to edit — from sleek designs to punchy videos  
-- 🧪 **Currently Cooking**: React spells, Linux rituals, and midnight ideas  
-- 💡 **Obsessions**: Interface wizardry, camera clicks, YouTube antics, design rabbit holes  
-- 📍 **Base Camp**: Kerala, India (powered by chai and chaos)
+### 🎨 Designing Generalist | 🎬 Content Creator | 🌐 Community Moderator | 🧠 Tech Explorer  
+> “I create experiences — not just pixels.”
 
 ---
 
-## ⚙️ My Superpowers
+## 🚀 About Me
 
-### 🎨 Design & Visual Alchemy
-- ✨ UI/UX with Figma (minimal, clean, and spicy)  
-- 🎯 Web Design (HTML · CSS · JS-ish · React baby steps)  
-- 🖌️ Graphic sorcery (Photoshop · Illustrator · Inkscape · Affinity)  
-- 🧬 Branding? I breathe it.
+I'm a **multi-disciplinary creative** who lives at the intersection of design, storytelling, and technology. Whether I’m prototyping sleek UIs, editing videos, managing communities, or exploring Linux rabbit holes — I do it with intention, curiosity, and a pinch of chaos 😄.
 
-### 🎥 Frame-by-Frame Wizardry
-- 🎞️ Video Editing (Premiere Pro · DaVinci · Final Cut · After Effects sprinkles)  
-- 📸 Videography · Photography · Cinematic meme moments  
-- 🎮 YouTube content — both pixel-punching and chill storytelling
-
-### 🧰 The Random Yet Useful Stuff
-- 🧑‍💻 Community Summoner (Discord whisperer, mod stuff pro)  
-- 🌐 No-Code Warrior  
-- 🤖 AI dabbler  
-- 💬 Customer Support with ✨ empathy
+- 💼 **Profession**: UI/UX Designer · Graphic Designer · Video Editor · Discord Moderator  
+- 📹 **Background**: Branding, Visual Identity, Videography, Post-Production  
+- 🌱 **Learning**: React · Linux Distros · Automation Tools  
+- 🎯 **Passions**: Tech Exploration · Creative Content · Community Building  
+- 📍 **Location**: Kerala, India  
 
 ---
 
-## 🌟 The Stuff I'm Proud Of
+## 💡 Core Skillset
 
-### 🔥 Branding & Visual Identity
-- **Dibz** · **Dcode UX** · **Wick Bot** · **Cinecodec** · **Pixelated Mello** · **Trony**
+### 🎨 Design & Branding
+- UI/UX Design (Figma, Adobe XD)  
+- Web Design (HTML, CSS, basic JS/React)  
+- Graphic Design (Photoshop, Illustrator, Affinity, Inkscape)  
+- Branding, Logo Systems & Visual Strategy  
 
-### 💻 UI/UX Design
-- **Kibo** — designed for weebs, by a weeb. Mobile + Web + Desktop love.
+### 🎥 Video Production & Content
+- Editing: Premiere Pro, DaVinci Resolve, Final Cut Pro, After Effects  
+- Videography & Photography  
+- Full YouTube pipeline: Script → Shoot → Edit → Publish  
 
-### 📹 Content Creation
-- Complete YouTube production wizardry for **Ein Sheva Media Creations**
-
-### 🛡️ Community Magic
-- **Bluewillow AI** – User Guide, engagement, and support before Limewire pulled a Thanos snap
-
----
-
-## 🌐 Let's Link Up (Not a robot, promise)
-
-[🌍 Portfolio](https://inkandvision.framer.in) ·  
-[💼 LinkedIn](https://linkedin.com/in/joyalsiby) ·  
-[🐙 GitHub](https://github.com/joyalsiby) ·  
-[📹 YouTube](https://youtube.com/@ZombifiedPotato) ·  
-[🎨 Behance](https://behance.net/joyalsiby) ·  
-[🖌️ Figma](https://figma.com/@joyalsiby) ·  
-[📸 Instagram](https://instagram.com/joyalsibyanc)
+### 🛠 Other Tools & Strengths
+- Community Management & Moderation (Discord, AI communities)  
+- No-Code Website Development  
+- AI Tools, Automation Workflows  
+- Customer Support with Design Thinking
 
 ---
 
-## 📊 GitHub Stats (Because numbers are sexy)
+## 🌟 Notable Projects
+
+- **Dibz**, **Dcode UX**, **Wick Bot**, **Cinecodec**, **Pixelated Mello**, **Trony**  
+  *→ Visual identity and brand design*
+
+- **Kibo**  
+  *→ UI/UX design for an anime streaming app (Mobile · Web · Desktop)*
+
+- **Ein Sheva Media Creations**  
+  *→ Full-stack YouTube content creation (Video, Design, Post)*
+
+- **Bluewillow AI (acquired by Limewire)**  
+  *→ User onboarding design, support systems, and community engagement*
+
+---
+
+## 🌐 Connect With Me
+
+| 🌍 Portfolio | 💼 LinkedIn | 🐙 GitHub | 📹 YouTube | 🎨 Behance | 🖌️ Figma | 📸 Instagram |
+|-------------|-------------|-----------|------------|-------------|------------|---------------|
+| [inkandvision.framer.in](https://inkandvision.framer.in) | [linkedin.com/in/joyalsiby](https://linkedin.com/in/joyalsiby) | [github.com/joyalsiby](https://github.com/joyalsiby) | [@ZombifiedPotato](https://youtube.com/@ZombifiedPotato) | [behance.net/joyalsiby](https://behance.net/joyalsiby) | [figma.com/@joyalsiby](https://figma.com/@joyalsiby) | [@joyalsibyanc](https://instagram.com/joyalsibyanc) |
+
+---
+
+## 📈 GitHub Stats
 
 ![Joyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyalsiby&show_icons=true&theme=radical)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalsiby&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-> 🧃 Thanks for scrolling through my colorful mess. Let’s collaborate, create, and maybe break a few things (for science). Hit me up, and let’s turn pixels into magic. 🚀
+## 🤝 Let's Build Together!
+
+Whether you're a collaborator, client, or fellow creator —  
+💌 *DMs open. Ideas welcome. Let's turn creativity into impact.*
+
+> “Design is where emotion meets logic — and I like playing in that intersection.”
+
+---

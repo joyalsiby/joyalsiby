@@ -58,7 +58,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 | 🌍 Portfolio | 💼 LinkedIn | 🐙 GitHub | 📹 YouTube | 🎨 Behance | 🖌️ Figma | 📸 Instagram |
 |-------------|-------------|-----------|------------|-------------|------------|---------------|
-| [inkandvision.framer.in](https://inkandvision.framer.in) | [linkedin.com/in/joyalsiby](https://linkedin.com/in/joyalsiby) | [github.com/joyalsiby](https://github.com/joyalsiby) | [@ZombifiedPotato](https://youtube.com/@ZombifiedPotato) | [behance.net/joyalsiby](https://behance.net/joyalsiby) | [figma.com/@joyalsiby](https://figma.com/@joyalsiby) | [@joyalsibyanc](https://instagram.com/joyalsibyanc) |
+| [inkandvision.framer.in](https://joyalsiby.com) | [linkedin.com/in/joyalsiby](https://linkedin.com/in/joyalsiby) | [github.com/joyalsiby](https://github.com/joyalsiby) | [@ZombifiedPotato](https://youtube.com/@ZombifiedPotato) | [behance.net/joyalsiby](https://behance.net/joyalsiby) | [figma.com/@joyalsiby](https://figma.com/@joyalsiby) | [@joyalsibyanc](https://instagram.com/joyalsibyanc) |
 
 ---
 

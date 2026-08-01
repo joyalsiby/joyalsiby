@@ -70,8 +70,6 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 ![Joyal's GitHub stats](assets/github-stats.svg)  
 [![Top Languages](assets/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 

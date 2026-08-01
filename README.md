@@ -58,7 +58,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 <div align="left">
   <a href="https://joyalsiby.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://youtube.com/@ZombifiedPotato" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://behance.net/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>

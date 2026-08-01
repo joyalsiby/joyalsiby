@@ -70,16 +70,15 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 ## 📈 GitHub Stats
 
-[![Joyal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=joyalsiby&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joyalsiby&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117" alt="Joyal's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalsiby&theme=dark&hide_border=false&background=0D1117" alt="Joyal's Streak Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalsiby&theme=dark&hide_border=false&bg_color=0D1117" alt="Joyal's Top Languages" />
 </div>
+
+[![Joyal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

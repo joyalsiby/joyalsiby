@@ -121,10 +121,10 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <!-- Platforms, OS & Tools -->
   <img src="https://api.iconify.design/logos:fedora.svg" width="48" height="48" alt="Fedora Linux" />&nbsp;
   <img src="https://api.iconify.design/logos:microsoft-windows-icon.svg" width="48" height="48" alt="Windows 11" />&nbsp;
-  <img src="https://api.iconify.design/logos:cloudflare.svg" width="48" height="48" alt="Cloudflare" />&nbsp;
+  <img src="https://api.iconify.design/devicon:cloudflare.svg" width="48" height="48" alt="Cloudflare" />&nbsp;
   <img src="https://api.iconify.design/logos:google-analytics.svg" width="48" height="48" alt="Google Analytics" />&nbsp;
   <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48" alt="VS Code" />&nbsp;
-  <img src="https://api.iconify.design/devicon:cloudflare.svg" width="48" height="48" alt="Discord" />&nbsp;
+  <img src="https://api.iconify.design/logos:discord-icon.svg" width="48" height="48" alt="Discord" />&nbsp;
   <img src="https://api.iconify.design/logos:notion-icon.svg" width="48" height="48" alt="Notion" />&nbsp;
 </p>
 

@@ -97,9 +97,9 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux,discord&theme=dark" />
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="48" height="48" alt="Fedora" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="48" height="48" alt="Fedora" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+
 
 ---
 

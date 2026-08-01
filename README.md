@@ -115,7 +115,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="48" height="48" alt="CSS3" />&nbsp;
   <img src="https://api.iconify.design/devicon:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
   <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />&nbsp;
-  <img src="https://api.iconify.design/skill-icons:github-dark.svg" width="48" height="48" alt="GitHub" />&nbsp;
+  <img src="https://api.iconify.design/selfhst:github-light.svg" width="48" height="48" alt="GitHub" />&nbsp;
   <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />&nbsp;
 
   <!-- Platforms, OS & Tools -->
@@ -125,6 +125,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/logos:google-analytics.svg" width="48" height="48" alt="Google Analytics" />&nbsp;
   <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48" alt="VS Code" />&nbsp;
   <img src="https://api.iconify.design/devicon:cloudflare.svg" width="48" height="48" alt="Discord" />&nbsp;
+  <img src="https://api.iconify.design/logos:notion-icon.svg" width="48" height="48" alt="Notion" />&nbsp;
 </p>
 
 

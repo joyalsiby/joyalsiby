@@ -98,8 +98,8 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 </div>
 
 <p align="left">
-  <img src="https://api.iconify.design/logos:archlinux.svg" width="48" height="48" alt="Arch" />&nbsp;
-  <img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />
+  <img src="https://api.iconify.design/logos:archlinux.svg" width="48" height="48" alt="Arch" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />
   <img src="https://api.iconify.design/logos:godot-icon.svg" width="48" height="48" alt="Godot" />
 </p>
 

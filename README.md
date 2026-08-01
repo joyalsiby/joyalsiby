@@ -91,6 +91,12 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 [![Joyal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🛠️ Tools of the Trade
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux&theme=dark" />
+</div>
+
 ---
 
 ## 🤝 Let's Build Together!

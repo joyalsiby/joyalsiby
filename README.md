@@ -94,7 +94,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 ## 🛠️ Tools of the Trade
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux,fedora&theme=dark" />
 </div>
 
 ---

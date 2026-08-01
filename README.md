@@ -106,7 +106,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-lightroom.svg" width="48" height="48" alt="Adobe Lightroom" />&nbsp;
   <img src="https://api.iconify.design/logos:blender.svg" width="48" height="48" alt="Blender" />&nbsp;
-  <img src="https://api.iconify.design/bxl:canva.svg" width="48" height="48" alt="Canva" />&nbsp;
+  <img src="https://api.iconify.design/devicon:canva" width="48" height="48" alt="Canva" />&nbsp;
 
   <!-- Video Editing & Motion Graphics -->
   <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" />&nbsp;

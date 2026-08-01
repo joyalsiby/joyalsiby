@@ -70,9 +70,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
-![Joyal's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=joyalsiby&theme=dark)
+![Joyal's GitHub stats](assets/github-stats.svg?v=1)
 
 ---
 

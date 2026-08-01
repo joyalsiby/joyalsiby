@@ -98,11 +98,37 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 </div>
 
 <p align="left">
+  <!-- UI / UX & Graphic Design -->
   <img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-xd.svg" width="48" height="48" alt="Godot" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-illustrator.svg" width="48" height="48" alt="Godot" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Godot" />&nbsp;
-  <img src="https://api.iconify.design/adobe-after-effects.svg" width="48" height="48" alt="Godot" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-xd.svg" width="48" height="48" alt="Adobe XD" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-illustrator.svg" width="48" height="48" alt="Adobe Illustrator" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-photoshop.svg" width="48" height="48" alt="Adobe Photoshop" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-lightroom.svg" width="48" height="48" alt="Adobe Lightroom" />&nbsp;
+  <img src="https://api.iconify.design/logos:blender.svg" width="48" height="48" alt="Blender" />&nbsp;
+  <img src="https://api.iconify.design/logos:canva.svg" width="48" height="48" alt="Canva" />&nbsp;
+
+  <!-- Video Editing & Motion Graphics -->
+  <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-after-effects.svg" width="48" height="48" alt="Adobe After Effects" />&nbsp;
+  <img src="https://api.iconify.design/logos:davinci-resolve.svg" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
+
+  <!-- Web Development & Tech Stack -->
+  <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" />&nbsp;
+  <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" />&nbsp;
+  <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />&nbsp;
+  <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />&nbsp;
+  <img src="https://api.iconify.design/logos:github-icon.svg" width="48" height="48" alt="GitHub" />&nbsp;
+  <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />&nbsp;
+
+  <!-- Platforms, OS & Tools -->
+  <img src="https://api.iconify.design/logos:fedora.svg" width="48" height="48" alt="Fedora Linux" />&nbsp;
+  <img src="https://api.iconify.design/logos:microsoft-windows-icon.svg" width="48" height="48" alt="Windows 11" />&nbsp;
+  <img src="https://api.iconify.design/logos:cloudflare.svg" width="48" height="48" alt="Cloudflare" />&nbsp;
+  <img src="https://api.iconify.design/logos:google-analytics.svg" width="48" height="48" alt="Google Analytics" />&nbsp;
+  <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48" alt="VS Code" />&nbsp;
+  <img src="https://api.iconify.design/logos:discord-icon.svg" width="48" height="48" alt="Discord" />&nbsp;
 </p>
 
 

@@ -70,8 +70,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 
 ## 📈 GitHub Stats
 
-![Joyal's GitHub stats](assets/github-stats.svg?v=2)  
-![Top Languages](assets/top-langs.svg?v=2)
+[![Joyal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

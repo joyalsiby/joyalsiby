@@ -108,7 +108,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <!-- Video Editing & Motion Graphics -->
   <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-after-effects.svg" width="48" height="48" alt="Adobe After Effects" />&nbsp;
-  <img src="https://api.iconify.design/simple-icons:davinciresolve.svg" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:davinciresolve.svg?color=%23ffffff" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
 
   <!-- Web Development & Tech Stack -->
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="48" height="48" alt="HTML5" />&nbsp;

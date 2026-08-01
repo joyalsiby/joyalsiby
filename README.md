@@ -100,7 +100,9 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
 <p align="left">
   <img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-xd.svg" width="48" height="48" alt="Godot" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-photoshop.svg" width="48" height="48" alt="Godot" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-illustrator.svg" width="48" height="48" alt="Godot" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Godot" />&nbsp;
+  <img src="https://api.iconify.design/adobe-after-effects.svg" width="48" height="48" alt="Godot" />&nbsp;
 </p>
 
 

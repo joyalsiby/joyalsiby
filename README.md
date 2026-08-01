@@ -104,19 +104,16 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/logos:adobe-illustrator.svg" width="48" height="48" alt="Adobe Illustrator" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-photoshop.svg" width="48" height="48" alt="Adobe Photoshop" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-lightroom.svg" width="48" height="48" alt="Adobe Lightroom" />&nbsp;
-  <img src="https://api.iconify.design/logos:blender.svg" width="48" height="48" alt="Blender" />&nbsp;
-  <img src="https://api.iconify.design/devicon:canva.svg" width="48" height="48" alt="Canva" />&nbsp;
 
   <!-- Video Editing & Motion Graphics -->
   <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" />&nbsp;
   <img src="https://api.iconify.design/logos:adobe-after-effects.svg" width="48" height="48" alt="Adobe After Effects" />&nbsp;
-  <img src="https://api.iconify.design/logos:davinci-resolve.svg" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:davinciresolve.svg" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
 
   <!-- Web Development & Tech Stack -->
-  <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" />&nbsp;
-  <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" />&nbsp;
-  <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="48" height="48" alt="HTML5" />&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="48" height="48" alt="CSS3" />&nbsp;
+  <img src="https://api.iconify.design/devicon:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
   <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />&nbsp;
   <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />&nbsp;
   <img src="https://api.iconify.design/logos:github-icon.svg" width="48" height="48" alt="GitHub" />&nbsp;

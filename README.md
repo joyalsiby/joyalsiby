@@ -101,7 +101,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/logos:archlinux.svg" width="48" height="48" alt="Arch" />&nbsp;
   <img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />&nbsp;
   <img src="https://api.iconify.design/logos:godot-icon.svg" width="48" height="48" alt="Godot" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-xd" width="48" height="48" alt="Godot" />&nbsp;
+  <img src="https://api.iconify.design/logos:adobe-xd.svg" width="48" height="48" alt="Godot" />&nbsp;
 </p>
 
 

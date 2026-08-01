@@ -124,7 +124,7 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/logos:cloudflare.svg" width="48" height="48" alt="Cloudflare" />&nbsp;
   <img src="https://api.iconify.design/logos:google-analytics.svg" width="48" height="48" alt="Google Analytics" />&nbsp;
   <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48" alt="VS Code" />&nbsp;
-  <img src="https://api.iconify.design/logos:discord-icon.svg" width="48" height="48" alt="Discord" />&nbsp;
+  <img src="https://api.iconify.design/devicon:cloudflare.svg" width="48" height="48" alt="Discord" />&nbsp;
 </p>
 
 

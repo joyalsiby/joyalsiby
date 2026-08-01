@@ -114,7 +114,6 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="48" height="48" alt="HTML5" />&nbsp;
   <img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="48" height="48" alt="CSS3" />&nbsp;
   <img src="https://api.iconify.design/devicon:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
-  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />&nbsp;
   <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />&nbsp;
   <img src="https://api.iconify.design/logos:github-icon.svg" width="48" height="48" alt="GitHub" />&nbsp;
   <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />&nbsp;

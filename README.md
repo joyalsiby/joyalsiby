@@ -97,6 +97,10 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux,discord&theme=dark" />
 </div>
 
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
 ---
 
 ## 🤝 Let's Build Together!

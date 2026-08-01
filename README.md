@@ -66,6 +66,15 @@ I'm a **multi-disciplinary creative** who lives at the intersection of design, s
  <a href="https://instagram.com/joyalsibyanc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+<div align="center">
+  <a href="https://joyalsiby.com/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/joyalsiby"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/joyalsiby"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://youtube.com/@ZombifiedPotato"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://behance.net/joyalsiby"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://figma.com/@joyalsiby"><img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+</div>
+
 ---
 
 ## 📈 GitHub Stats

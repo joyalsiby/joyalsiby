@@ -1,141 +1,126 @@
-# 👋 Hey there, I'm Joyal Siby!
+<div align="center">
+  <!-- Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Joyal%20Siby&fontColor=ffffff&animation=twinkling" alt="Joyal Siby Header" />
 
-### 🎨 Designing Generalist | 🎬 Content Creator | 🌐 Community Moderator | 🧠 Tech Explorer  
-> “I create experiences — not just pixels.”
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Designing+Generalist;Video+Editor+%26+Content+Creator;Discord+Community+Moderator;Tech+Explorer+%26+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br>
+  <i>“I create experiences — not just pixels.”</i>
+  <br><br>
+  
+  <!-- Sleek Badges -->
+  <a href="https://joyalsiby.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=4285F4" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@ZombifiedPotato" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://behance.net/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Behance-0D1117?style=flat-square&logo=behance&logoColor=1769FF" alt="Behance" /></a>
+  <a href="https://figma.com/@joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" /></a>
+  <a href="https://instagram.com/joyalsibyanc" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+</div>
 
 ---
 
-## 🚀 About Me
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr>
+<td width="55%" valign="top" style="border: none; padding-right: 15px;">
 
-I'm a **multi-disciplinary creative** who lives at the intersection of design, storytelling, and technology. Whether I’m prototyping sleek UIs, editing videos, managing communities, or exploring Linux rabbit holes — I do it with intention, curiosity, and a pinch of chaos 😄.
+<img src="https://img.shields.io/badge/👋_The_Architect-0D1117?style=for-the-badge&logoColor=white" alt="The Architect" />
+<br><br>
+I am a <b>multi-disciplinary creative</b> operating at the intersection of logical structure and striking visual design. I specialize in crafting clean, flat aesthetics and professional compositions, balancing my time between prototyping UIs, post-production editing, and scaling large community spaces.
+<br><br>
+<blockquote>
+💼 <b>Roles:</b> <kbd>UI/UX Designer</kbd> <kbd>Video Editor</kbd> <kbd>Moderator</kbd><br>
+🎯 <b>Focus:</b> <kbd>Visual Strategy</kbd> <kbd>Flat Design</kbd> <kbd>Workflow Automation</kbd><br>
+📍 <b>Base:</b> Kerala, India
+</blockquote>
 
-- 💼 **Profession**: UI/UX Designer · Graphic Designer · Video Editor · Discord Moderator  
-- 📹 **Background**: Branding, Visual Identity, Videography, Post-Production  
-- 🌱 **Learning**: React · Linux Distros · Automation Tools  
-- 🎯 **Passions**: Tech Exploration · Creative Content · Community Building  
-- 📍 **Location**: Kerala, India  
+</td>
+<td width="45%" valign="top" style="border: none;">
+
+<img src="https://img.shields.io/badge/💻_Tech_Sandbox-0D1117?style=for-the-badge&logoColor=white" alt="Tech Sandbox" />
+<br><br>
+<i>My daily driver and hardware exploration environment:</i>
+<br><br>
+<blockquote>
+⚙️ <b>Core:</b> <kbd>i7-14700</kbd> <kbd>RX 9060 XT</kbd> <kbd>MSI B760</kbd> <kbd>32GB DDR5</kbd><br><br>
+🐧 <b>System:</b> <img src="https://img.shields.io/badge/Fedora_42-294172?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" valign="middle"/> <img src="https://img.shields.io/badge/Win_11-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" valign="middle"/><br><br>
+🎧 <b>Peripherals:</b> <kbd>Ajazz AK820 Pro</kbd> <kbd>Logitech G502 HERO</kbd> <kbd>Samson SR850</kbd>
+</blockquote>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Core Skillset
+<h2 align="center">💡 Core Skillset</h2>
 
-### 🎨 Design & Branding
-- UI/UX Design (Figma, Adobe XD)  
-- Web Design (HTML, CSS, basic JS/React)  
-- Graphic Design (Photoshop, Illustrator, Affinity, Inkscape)  
-- Branding, Logo Systems & Visual Strategy  
+<!-- Using Skillicons for a unified, clean, and subtly animated hover effect -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,js,python,git,github,linux,windows,discord,vscode,cloudflare,notion&theme=dark&perline=10" alt="Joyal's Skills" />
+  </a>
+</p>
 
-### 🎥 Video Production & Content
-- Editing: Premiere Pro, DaVinci Resolve, Final Cut Pro, After Effects  
-- Videography & Photography  
-- Full YouTube pipeline: Script → Shoot → Edit → Publish  
-
-### 🛠 Other Tools & Strengths
-- Community Management & Moderation (Discord, AI communities)  
-- No-Code Website Development  
-- AI Tools, Automation Workflows  
-- Customer Support with Design Thinking
+<div align="center">
+  <sub><b>Design & Branding</b> (UI/UX, Vector Graphics, Visual Strategy) • <b>Video Production</b> (Premiere Pro, Full YouTube Pipeline) • <b>Other</b> (No-Code, AI Automation)</sub>
+</div>
 
 ---
 
 ## 🌟 Notable Projects
 
-- **Dibz**, **Dcode UX**, **Wick Bot**, **Cinecodec**, **Pixelated Mello**, **Trony**  
-  *→ Visual identity and brand design*
+<!-- Interactive Dropdowns for a minimalist, uncluttered look -->
+<details>
+  <summary><b>🎨 Visual Identity & Brand Design</b></summary>
+  <br>
+  Designed clean, flat, and professional visual identities, logos, and branding systems for <b>Dibz</b>, <b>Dcode UX</b>, <b>Wick Bot</b>, <b>Cinecodec</b>, <b>Pixelated Mello</b>, and <b>Trony</b>.
+</details>
 
-- **Kibo**  
-  *→ UI/UX design for an anime streaming app (Mobile · Web · Desktop)*
+<details>
+  <summary><b>📱 Kibo (Anime Streaming App)</b></summary>
+  <br>
+  Spearheaded the UI/UX design prototype across Mobile, Web, and Desktop environments, focusing on sleek user navigation and content discovery.
+</details>
 
-- **Ein Sheva Media Creations**  
-  *→ Full-stack YouTube content creation (Video, Design, Post)*
+<details>
+  <summary><b>🎬 Ein Sheva Media Creations</b></summary>
+  <br>
+  Managed the full-stack YouTube content creation pipeline, from scripting and ideation to video production, post-editing, and thumbnail design.
+</details>
 
-- **Bluewillow AI (acquired by Limewire)**  
-  *→ User onboarding design, support systems, and community engagement*
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://joyalsiby.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://youtube.com/@ZombifiedPotato" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://behance.net/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://figma.com/@joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="https://instagram.com/joyalsibyanc" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
-
-<!--<p align="left">
- <a href="https://joyalsiby.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
- <a href="https://linkedin.com/in/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://github.com/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
- <a href="https://youtube.com/@ZombifiedPotato" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
- <a href="https://behance.net/joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
- <a href="https://figma.com/@joyalsiby" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
- <a href="https://instagram.com/joyalsibyanc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
--->
+<details>
+  <summary><b>🌐 Bluewillow AI (Acquired by Limewire)</b></summary>
+  <br>
+  Architected user onboarding designs, structured support systems, and managed active community engagement within the AI art space.
+</details>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyalsiby&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117" alt="Joyal's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalsiby&theme=dark&hide_border=false&background=0D1117" alt="Joyal's Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalsiby&theme=dark&hide_border=false&bg_color=0D1117" alt="Joyal's Top Languages" />
-</div>
+<!-- Grid layout for stats so they sit side-by-side beautifully -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=joyalsiby&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&ring_color=4285F4&title_color=4285F4" alt="Joyal's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalsiby&theme=dark&hide_border=true&background=0D1117&ring=4285F4&fire=4285F4&currStreakNum=ffffff" alt="Joyal's Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-[![Joyal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🛠️ Tools of the Trade
-
-<!-- <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,html,css,react,linux,discord&theme=dark" />
-</div> -->
-
-<p align="left">
-  <!-- UI / UX & Graphic Design -->
-  <img src="https://api.iconify.design/logos:figma.svg" width="48" height="48" alt="Figma" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-xd.svg" width="48" height="48" alt="Adobe XD" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-illustrator.svg" width="48" height="48" alt="Adobe Illustrator" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-photoshop.svg" width="48" height="48" alt="Adobe Photoshop" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" />&nbsp;
-
-  <!-- Video Editing & Motion Graphics -->
-  <img src="https://api.iconify.design/logos:adobe-premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" />&nbsp;
-  <img src="https://api.iconify.design/logos:adobe-after-effects.svg" width="48" height="48" alt="Adobe After Effects" />&nbsp;
-  <img src="https://api.iconify.design/simple-icons:davinciresolve.svg?color=%23ffffff" width="48" height="48" alt="DaVinci Resolve" />&nbsp;
-
-  <!-- Web Development & Tech Stack -->
-  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="48" height="48" alt="HTML5" />&nbsp;
-  <img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="48" height="48" alt="CSS3" />&nbsp;
-  <img src="https://api.iconify.design/devicon:javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
-  <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />&nbsp;
-  <img src="https://api.iconify.design/selfhst:github-light.svg" width="48" height="48" alt="GitHub" />&nbsp;
-  <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />&nbsp;
-
-  <!-- Platforms, OS & Tools -->
-  <img src="https://api.iconify.design/logos:fedora.svg" width="48" height="48" alt="Fedora Linux" />&nbsp;
-  <img src="https://api.iconify.design/logos:microsoft-windows-icon.svg" width="48" height="48" alt="Windows 11" />&nbsp;
-  <img src="https://api.iconify.design/devicon:cloudflare.svg" width="48" height="48" alt="Cloudflare" />&nbsp;
-  <img src="https://api.iconify.design/logos:google-analytics.svg" width="48" height="48" alt="Google Analytics" />&nbsp;
-  <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48" alt="VS Code" />&nbsp;
-  <img src="https://api.iconify.design/logos:discord-icon.svg" width="48" height="48" alt="Discord" />&nbsp;
-  <img src="https://api.iconify.design/logos:notion-icon.svg" width="48" height="48" alt="Notion" />&nbsp;
+<!-- Animated Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyalsiby&theme=react-dark&hide_border=true&bg_color=0D1117&color=4285F4&line=4285F4&point=ffffff" alt="Joyal's Activity Graph" />
 </p>
 
-
 ---
 
-## 🤝 Let's Build Together!
-
-Whether you're a collaborator, client, or fellow creator —  
-💌 *DMs open. Ideas welcome. Let's turn creativity into impact.*
-
-> “Design is where emotion meets logic — and I like playing in that intersection.”
-
----
+<div align="center">
+  <h2>🤝 Let's Build Together!</h2>
+  <p>Whether you're a collaborator, client, or fellow creator — 💌 <i>DMs open. Ideas welcome. Let's turn creativity into impact.</i></p>
+  <p><b>“Design is where emotion meets logic — and I like playing in that intersection.”</b></p>
+</div>
